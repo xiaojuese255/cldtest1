@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WebGLInput",
+"dataUrl": "1923b41bdcc1fb62f4a1d217159ad0cb.unityweb",
+"wasmCodeUrl": "7ebd360a16c50cff5f3ccea1bf8a6862.unityweb",
+"wasmFrameworkUrl": "059e36bce7bfce39883e80c1f338565a.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
